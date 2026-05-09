@@ -18,4 +18,4 @@ response = client.recv(4096)
 print(response.decode())
 client.close()
 
-#COPY FROM BLACK HAT PYTHON BOOK
+#COPY FROM BLACK HAT PYTHON BOOK.
